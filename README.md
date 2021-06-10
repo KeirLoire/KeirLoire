@@ -6,7 +6,7 @@ I work at an awesome company called Open iT, Inc. I work on many different devel
 [<img src="https://img.shields.io/badge/linkedin-chesterayala-00a0dc?label=LinkedIn&style=flat&logo=linkedin" />](https://linkedin.com/in/chesterayala)
 [<img src="https://img.shields.io/badge/discord-KeirLoire%230001-7289da?label=Discord&style=flat&logo=discord" />](https://discordapp.com/users/430224989179084812)
 [<img src="https://img.shields.io/badge/soundcloud-KeirLoire-ff3300?label=SoundCloud&style=flat&logo=soundcloud" />](https://soundcloud.com/keirloire)
-
+[<img src="https://img.shields.io/badge/gitlab-chesterayala-ab6100?label=GitLab&style=flat&logo=gitlab" />](https://gitlab.com/chesterayala)
 
 ## **Adaptable and Driven** | Full stack Developer
 
