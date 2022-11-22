@@ -30,11 +30,11 @@ I consider myself a Full Stack Developer but most of the stuff I do are backend 
 - Scripting Languages
   - <img src="https://img.shields.io/badge/batch-5%20years-gold?label=Batch&style=flat" />  <img src="https://img.shields.io/badge/powershell-3%20years-white?label=PowerShell&style=flat" /> <img src="https://img.shields.io/badge/bash-3%20years-white?label=Bash&style=flat" /> <img src="https://img.shields.io/badge/lua-1%20year-blue?label=Lua&style=flat" />
 - Databases
-  - <img src="https://img.shields.io/badge/mysql-5%20years-gold?label=MySQL&style=flat" /> <img src="https://img.shields.io/badge/sqlite-5%20years-gold?label=SQLite&style=flat" /> <img src="https://img.shields.io/badge/mssql-3%20years-white?label=MSSQL&style=flat" /> <img src="https://img.shields.io/badge/sql%20ce-1%20year-blue?label=SQL%20CE&style=flat" />  <img src="https://img.shields.io/badge/ravendb-1%20year-blue?label=RavenDB&style=flat" /> <img src="https://img.shields.io/badge/mongodb-1%20year-blue?label=MongoDB&style=flat" />
+  - <img src="https://img.shields.io/badge/mysql-5%20years-gold?label=MySQL&style=flat" /> <img src="https://img.shields.io/badge/sqlite-5%20years-gold?label=SQLite&style=flat" /> <img src="https://img.shields.io/badge/mssql-3%20years-white?label=MSSQL&style=flat" /> <img src="https://img.shields.io/badge/msolap-3%20years-white?label=MSOLAP&style=flat" /> <img src="https://img.shields.io/badge/ms%20access-1%20year-blue?label=MS%20Access&style=flat" /> <img src="https://img.shields.io/badge/litedb-1%20year-blue?label=LiteDB&style=flat" /> <img src="https://img.shields.io/badge/sql%20ce-1%20year-blue?label=SQL%20CE&style=flat" />  <img src="https://img.shields.io/badge/ravendb-1%20year-blue?label=RavenDB&style=flat" /> <img src="https://img.shields.io/badge/mongodb-1%20year-blue?label=MongoDB&style=flat" />
   <img src="https://img.shields.io/badge/ms%20access-1%20year-blue?label=MS%20Access&style=flat" /> <img src="https://img.shields.io/badge/postgresql-1%20year-blue?label=PostgreSQL&style=flat" />
 - Web App Frameworks
   - Backend: ASP.NET, Laravel, CakePHP, Flask, Node.js
-  - Frontend: jQuery, Angular
+  - Frontend: jQuery, Angular, DevExpress
   - Frontend (CSS): Bootstrap
 - CI/CD Tools
   - Jenkins, GitLab, GitHub
