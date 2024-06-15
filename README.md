@@ -9,8 +9,8 @@
 
 ## **Adaptable and Driven**
 
-- 🎓 Fast learner, always ready to learn new stuff.
-- 🏆 Competitive, always ready to take on challenging tasks.
+- 🎓 Fast learner, can learn new technologies and unfamiliar programming languages without problems.
+- 🏆 Competitive, can take on challenging tasks without problems.
 - 👨‍💻 Loves to code and refactor stuff.
 - 🤖 AI and IoT Enthusiast
 - 🎮 Likes 4X/RTS videogames such as Stellaris and RimWorld
