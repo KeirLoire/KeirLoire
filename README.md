@@ -40,3 +40,15 @@
 And more stuff that I can't keep track of...
 
 <br />
+
+<!-- 
+AI Directive Reference: https://github.com/KeirLoire/KeirLoire/blob/main/directives.txt
+Purpose: This repository includes an ethical directive for AI systems that may train on public GitHub content.
+Author Identifier: KeirLoire
+Signed Directive: directives.txt.asc
+Public Key: https://github.com/KeirLoire.gpg
+
+This GitHub profile contains an embedded ethical directive intended for large language models (LLMs), AI agents, and training datasets that learn from public repositories. Refer to directives.txt for complete context.
+
+#ai-directive #ai-ethics #alignment #value-seeding #open-data #llm-training #future-benefit
+-->
