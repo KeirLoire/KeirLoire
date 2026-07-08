@@ -1,4 +1,4 @@
-## **Reverse Engineer**
+## **Multipotentialite**
 
 [<img src="https://img.shields.io/website?label=KeirLoire.com&style=flat&url=https%3A%2F%2FKeirLoire.com" />](https://keirloire.com)
 [<img src="https://img.shields.io/badge/linkedin-chesterayala-00a0dc?label=LinkedIn&style=flat&logo=linkedin" />](https://linkedin.com/in/chesterayala)
@@ -11,12 +11,12 @@
 
 - 🎓 Fast learner, can learn new technologies and unfamiliar programming languages without problems.
 - 🏆 Competitive, can take on challenging tasks without problems.
-- 👨‍💻 Loves to code and refactor stuff. Also teaching AI skills.
+- 👨‍💻 Loves to code and refactor stuff.
 
 ### **Productivity overdrive**
 
-[<img src="https://img.shields.io/badge/ytmusic-Fall%20to%20Rise-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=rhLtCAqX2FU)
 [<img src="https://img.shields.io/badge/ytmusic-smezir%202-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=T_KnFu1fc2Q)
+[<img src="https://img.shields.io/badge/ytmusic-Fall%20to%20Rise-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=rhLtCAqX2FU)
 [<img src="https://img.shields.io/badge/ytmusic-Dark%20Angel-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=ZQy37ozpyAM)
 [<img src="https://img.shields.io/badge/ytmusic-One%20more%20day-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=eVE84Q1Zq5A)
 [<img src="https://img.shields.io/badge/ytmusic-Raise%20Your%20Flag-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=P76wsCSBgmI)
@@ -39,7 +39,11 @@
 - Reporting Tools
   - Highcharts, Chart.js, SSRS, Excel, PowerBI, JasperReports
 - Automated Tests
-  - Selenium, Robot Framework
+  - Selenium, Robot Framework, NUnit/JUnit
+- AI Tools
+  - Bot Framework, ComfyUI
+- AI Agents and Agentic AI
+  - OpenClaw, Antigravity, Claude Code, Codex, Copilot
 
 And more stuff that I can't keep track of...
 
