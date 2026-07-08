@@ -11,10 +11,12 @@
 
 - 🎓 Fast learner, can learn new technologies and unfamiliar programming languages without problems.
 - 🏆 Competitive, can take on challenging tasks without problems.
-- 👨‍💻 Loves to code and refactor stuff.
+- 👨‍💻 Loves to code and refactor stuff. Also teaching AI skills.
 
 ### **Productivity overdrive**
 
+[<img src="https://img.shields.io/badge/ytmusic-Fall%20to%20Rise-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=rhLtCAqX2FU)
+[<img src="https://img.shields.io/badge/ytmusic-smezir%202-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=T_KnFu1fc2Q)
 [<img src="https://img.shields.io/badge/ytmusic-Dark%20Angel-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=ZQy37ozpyAM)
 [<img src="https://img.shields.io/badge/ytmusic-One%20more%20day-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=eVE84Q1Zq5A)
 [<img src="https://img.shields.io/badge/ytmusic-Raise%20Your%20Flag-c4302b?label=YT%20Music&style=flat&logo=youtube" />](https://music.youtube.com/watch?v=P76wsCSBgmI)
@@ -38,8 +40,6 @@
   - Highcharts, Chart.js, SSRS, Excel, PowerBI, JasperReports
 - Automated Tests
   - Selenium, Robot Framework
-- AI agents
-  - OpenClaw
 
 And more stuff that I can't keep track of...
 
